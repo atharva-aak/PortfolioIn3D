@@ -23,6 +23,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    github,
   } from "../assets";
   
   export const navLinks = [
@@ -72,18 +73,18 @@ import {
       name: "JavaScript",
       icon: javascript,
     },
-    {
-      name: "TypeScript",
-      icon: typescript,
-    },
+    // {
+    //   name: "TypeScript",
+    //   icon: typescript,
+    // },
     {
       name: "React JS",
       icon: reactjs,
     },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
+    // {
+    //   name: "Redux Toolkit",
+    //   icon: redux,
+    // },
     {
       name: "Tailwind CSS",
       icon: tailwind,
@@ -92,81 +93,72 @@ import {
       name: "Node JS",
       icon: nodejs,
     },
-    {
-      name: "MongoDB",
-      icon: mongodb,
-    },
+    // {
+    //   name: "MongoDB",
+    //   icon: mongodb,
+    // },
     {
       name: "Three JS",
       icon: threejs,
     },
     {
-      name: "git",
-      icon: git,
+      name: "github",
+      icon: github,
     },
     {
       name: "figma",
       icon: figma,
     },
-    {
-      name: "docker",
-      icon: docker,
-    },
+    // {
+    //   name: "docker",
+    //   icon: docker,
+    // },
   ];
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
-      iconBg: "#383E56",
-      date: "March 2020 - April 2021",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
-      iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
       title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      company_name: "Sun Infotech",
+      icon: starbucks,
+      iconBg: "#C1C4D0",
+      date: "July 2022 - August 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Gained hands on experience in web application development using Advance Java, focusing on technologies like Servlets and JDBC.",
+        "Colloborated with the team to understand the project development lifecycle and implement key application features",
+        "Developed skills in database management, application deployment, and debugging",
+        "Demonstrated punctuality, dedication, and a proactive approach to learning throughout the internship.",
       ],
     },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
+    // {
+    //   title: "",
+    //   company_name: "",
+    //   icon: tesla,
+    //   iconBg: "#E6DEDD",
+    //   date: "",
+    //   points: [
+    //     "",
+    //   ],
+    // },
+    // {
+    //   title: "",
+    //   company_name: "",
+    //   icon: shopify,
+    //   iconBg: "#383E56",
+    //   date: "",
+    //   points: [
+    //     "",
+    //   ],
+    // },
+    // {
+    //   title: "",
+    //   company_name: "",
+    //   icon: meta,
+    //   iconBg: "#E6DEDD",
+    //   date: "",
+    //   points: [
+    //     "",
+    //   ],
+    // },
   ];
   
   const testimonials = [

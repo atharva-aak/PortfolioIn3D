@@ -1,6 +1,6 @@
-# 🌟 Dynamic 3D Portfolio  
+# 🌟 Portfolio  
 
-Welcome to my **Dynamic 3D Portfolio** — a modern and interactive way to showcase skills, experience, and creativity through the power of **3D web design**.  
+Welcome to my **Portfolio** — a modern and interactive way to showcase skills, experience, and creativity through the power of **3D web design**.  
 
 ## 🚀 Features  
 - **Home**: A visually captivating landing page with dynamic 3D visuals.  
@@ -20,14 +20,14 @@ Welcome to my **Dynamic 3D Portfolio** — a modern and interactive way to showc
 ---
 
 ## 📸 Preview  
-![Portfolio Preview](link-to-preview-image-or-gif)
+<!-- ![Portfolio Preview](link-to-preview-image-or-gif) -->
 
 ---
 
 ## 📬 Contact  
 If you like what you see or have questions, feel free to connect with me:  
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+- **Email**: [atharvakalbande5@gmail.com](mailto:atharvakalbande5@gmail.com)  
+- **LinkedIn**: [atharva_kalbande38](https://www.linkedin.com/in/atharva-kalbande38/)  
 
 ---
 
