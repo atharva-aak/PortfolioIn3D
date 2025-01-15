@@ -6,7 +6,8 @@ Welcome to my **Portfolio** — a modern and interactive way to showcase skills,
 - **Home**: A visually captivating landing page with dynamic 3D visuals.  
 - **About**: Insight into my background, expertise, and goals.  
 - **Experience**: A timeline of my professional journey and achievements.  
-- **Tech**: Tools and technologies I specialize in, presented beautifully.  
+- **Tech**: Tools and technologies I specialize in, presented beautifully.
+- **Projects**: The projects which i have worked upon.  
 - **Contact**: A responsive contact form and social links for easy connection.  
 
 ---
@@ -16,11 +17,6 @@ Welcome to my **Portfolio** — a modern and interactive way to showcase skills,
 - **Three.js**: 3D graphics and animations.  
 - **@react-three/fiber**: Integration of Three.js into React.  
 - **CSS/SCSS**: Responsive and visually appealing styling.  
-
----
-
-## 📸 Preview  
-<!-- ![Portfolio Preview](link-to-preview-image-or-gif) -->
 
 ---
 

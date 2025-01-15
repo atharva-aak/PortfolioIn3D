@@ -190,20 +190,20 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Cyber Sentinel",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Developed a web-based platform featuring simulations of phishing, SQL injection, XSS, and directory traversal attacks. Included dynamic charts, statistics, and live updates to educate users on cybersecurity threats.",
       tags: [
         {
-          name: "react",
+          name: "HTML",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "CSS",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "JavaScript(Node.js & Express.js)",
           color: "pink-text-gradient",
         },
       ],
@@ -211,46 +211,43 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Messaging App",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Developed a streamlined messaging app that allows users to send messages by entering a recipient's phone number and message content. Focused on creating a simple, user-friendly interface with smooth and reliable message delivery.",
       tags: [
         {
-          name: "react",
+          name: "java",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "xml",
           color: "green-text-gradient",
         },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
-        },
+
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/atharva-aak/Message-SMS",
     },
     {
-      name: "Trip Guide",
+      name: "WhatsApp Clone(Under Development)",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Developing an Android app for real-time messaging with user authentication, contact management, and chat functionality.Working on features like group chats and media sharing.",
       tags: [
         {
-          name: "nextjs",
+          name: "java",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "xml",
           color: "green-text-gradient",
         },
         {
-          name: "css",
-          color: "pink-text-gradient",
+          name: "firebase",
+          color: "orange-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/atharva-aak/WhatsApp-Clone",
     },
   ];
   
