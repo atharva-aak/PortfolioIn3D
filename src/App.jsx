@@ -1,7 +1,7 @@
 import { BrowserRouter } from "react-router-dom";
 import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, StarsCanvas } from './components';
 // Import the Vercel Analytics component
-import { Analytics } from '@vercel/analytics';
+import { Analytics } from '@vercel/analytics/react';
 
 const App = () => {
   return (
@@ -22,7 +22,6 @@ const App = () => {
           <StarsCanvas />
         </div>
       </div>
-      {/* Add the Analytics component here */}
       <Analytics />
     </BrowserRouter>
   );
