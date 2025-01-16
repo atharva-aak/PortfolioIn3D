@@ -20,8 +20,8 @@ const App = () => {
           <Contact />
           <StarsCanvas />
         </div>
-        <Analytics />
       </div>
+      <Analytics />
     </BrowserRouter>
   );
 };
