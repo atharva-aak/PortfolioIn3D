@@ -12,7 +12,7 @@ const Tech = () => {
                   Technologies I worked with
                 </p>
                 <h2 className={`${styles.sectionHeadText} text-center`}>
-                  SKIILS
+                  SKILLS
                 </h2>
       </motion.div>
     
