@@ -24,6 +24,7 @@ import {
     tripguide,
     threejs,
     github,
+    homepage,
   } from "../assets";
   
   export const navLinks = [
@@ -189,6 +190,28 @@ import {
   ];
   
   const projects = [
+    {
+      name: "Pixel Prompt",
+      description:
+        "PixelPrompt is an AI-based Text-to-Image Generator that transforms words into stunning visuals.",
+      tags: [
+        {
+          name: "HTML",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "CSS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "JavaScript",
+          color: "orange-text-gradient",
+        },
+      ],
+      image: homepage,
+      source_code_link: "https://github.com/atharva-aak/PixelPrompt",
+      preview: "https://pixelprompt.vercel.app",
+    },
     {
       name: "Cyber Sentinel",
       description:
